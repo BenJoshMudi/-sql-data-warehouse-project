@@ -44,7 +44,7 @@ This project involves:
 
   ...
 
-  ### B1: Analtics & Reporting (Data Analytics)
+  ### B1: Analytics & Reporting (Data Analytics)
 
 #### Objectives:
 
